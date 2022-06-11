@@ -6,24 +6,24 @@ Mastering Ethereum is a book for developers, offering a guide to the operation a
 
 ## Reading this book
 
-To read this book, see [book.asciidoc](https://github.com/ethereumbook/ethereumbook/blob/develop/book.asciidoc). Click on each of the chapters to read in your browser. Other parties may choose to release PDFs of the book online.
+To read this book, see [book.asciidoc](book.asciidoc). Click on each of the chapters to read in your browser. Other parties may choose to release PDFs of the book online.
 
 ## Chapters
-+ Preface: '[Preface](https://github.com/ethereumbook/ethereumbook/blob/develop/preface.asciidoc)'
-+ Chapter 1: '[What Is Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc)'
-+ Chapter 2: '[Ethereum Basics](https://github.com/ethereumbook/ethereumbook/blob/develop/02intro.asciidoc)'
-+ Chapter 3: '[Ethereum Clients](https://github.com/ethereumbook/ethereumbook/blob/develop/03clients.asciidoc)'
-+ Chapter 4: '[Cryptography](https://github.com/ethereumbook/ethereumbook/blob/develop/04keys-addresses.asciidoc)'
-+ Chapter 5: '[Wallets](https://github.com/ethereumbook/ethereumbook/blob/develop/05wallets.asciidoc)'
-+ Chapter 6: '[Transactions](https://github.com/ethereumbook/ethereumbook/blob/develop/06transactions.asciidoc)'
-+ Chapter 7: '[Smart Contracts and Solidity](https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc)'
-+ Chapter 8: '[Smart Contracts and Vyper](https://github.com/ethereumbook/ethereumbook/blob/develop/08smart-contracts-vyper.asciidoc)'
-+ Chapter 9: '[Smart Contract Security](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc)'
-+ Chapter 10: '[Tokens](https://github.com/ethereumbook/ethereumbook/blob/develop/10tokens.asciidoc)'
-+ Chapter 11: '[Oracles](https://github.com/ethereumbook/ethereumbook/blob/develop/11oracles.asciidoc)'
-+ Chapter 12: '[Decentralized Applications (DApps)](https://github.com/ethereumbook/ethereumbook/blob/develop/12dapps.asciidoc)'
-+ Chapter 13: '[The Ethereum Virtual Machine](https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc)'
-+ Chapter 14: '[Consensus](https://github.com/ethereumbook/ethereumbook/blob/develop/14consensus.asciidoc)'
++ Preface: '[Preface](preface.asciidoc)'
++ Chapter 1: '[What Is Ethereum](01what-is.asciidoc)'
++ Chapter 2: '[Ethereum Basics](02intro.asciidoc)'
++ Chapter 3: '[Ethereum Clients](03clients.asciidoc)'
++ Chapter 4: '[Cryptography](04keys-addresses.asciidoc)'
++ Chapter 5: '[Wallets](05wallets.asciidoc)'
++ Chapter 6: '[Transactions](06transactions.asciidoc)'
++ Chapter 7: '[Smart Contracts and Solidity](07smart-contracts-solidity.asciidoc)'
++ Chapter 8: '[Smart Contracts and Vyper](08smart-contracts-vyper.asciidoc)'
++ Chapter 9: '[Smart Contract Security](09smart-contracts-security.asciidoc)'
++ Chapter 10: '[Tokens](10tokens.asciidoc)'
++ Chapter 11: '[Oracles](11oracles.asciidoc)'
++ Chapter 12: '[Decentralized Applications (DApps)](12dapps.asciidoc)'
++ Chapter 13: '[The Ethereum Virtual Machine](13evm.asciidoc)'
++ Chapter 14: '[Consensus](14consensus.asciidoc)'
 
 ## Content
 
